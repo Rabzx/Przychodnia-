@@ -4,7 +4,7 @@ package przychodnia;
  * Klasa ma służyć to reprezentowania pacjenta
  * @author Sebastian
  */
-public class Pacjent {
+public class Pacjent extends Choroby {
     //pola
     private String imie;
     private String nazwisko;
